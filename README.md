@@ -1,4 +1,4 @@
-# 🩻 Medical Image Segmentation & Mecidal Image Security Papers Collection
+# 🏥 Medical Image Segmentation & Mecidal Image Security Papers Collection
 
 > 📚 **A comprehensive collection of research papers on medical image segmentation & medical image security in machine learning.**  
 > 🎓 **Maintained by**: Dr. Junhao Xiao | Chongqing University of Posts and Telecommunications | d230201040@stu.cqupt.edu.cn
