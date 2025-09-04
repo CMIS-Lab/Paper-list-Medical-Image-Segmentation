@@ -1,12 +1,11 @@
 # 🛡️ Medical Image Segmentation & Mecidal Image Security Papers Collection
 
-> 📚 **A comprehensive collection of research papers on backdoor defenses in machine learning.**  
+> 📚 **A comprehensive collection of research papers on medical image segmentation & medical image security in machine learning.**  
 > 🎓 **Maintained by**: Dr. Junhao Xiao | Chongqing University of Posts and Telecommunications | d230201040@stu.cqupt.edu.cn
 
 ## 📖 About This Repository
 
 This repository serves as a curated collection of academic papers focusing on **Medical Image Segmentation & Mecidal Image Security** in machine learning. Our goal is to provide researchers, practitioners, and students with a comprehensive overview of the current state-of-the-art in this critical medical images domain of mecidal images processing.
-
 
 ### 🎯 **Repository Purpose:**
 - 🏆 **Quality Focus**: Emphasis on high-impact venues. [CCF-Rankings](https://www.ccf.org.cn/en/About_CCF/Media_Center/) now marked with different colors(![arXiv](https://img.shields.io/badge/CCF_A-dc3545) ![Static Badge](https://img.shields.io/badge/CCF_B-ffc107) ![Static Badge](https://img.shields.io/badge/CCF_C-28a745) ![Static Badge](https://img.shields.io/badge/CCF_None-6c757d))
