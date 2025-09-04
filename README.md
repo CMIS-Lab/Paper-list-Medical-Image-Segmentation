@@ -5,7 +5,7 @@
 
 ## 📖 About This Repository
 
-This repository serves as a curated collection of academic papers focusing on **defense mechanisms** in machine learning. Our goal is to provide researchers, practitioners, and students with a comprehensive overview of the current state-of-the-art in this critical security domain.
+This repository serves as a curated collection of academic papers focusing on **Medical Image Segmentation & Mecidal Image Security** in machine learning. Our goal is to provide researchers, practitioners, and students with a comprehensive overview of the current state-of-the-art in this critical medical images domain of mecidal images processing.
 
 
 ### 🎯 **Repository Purpose:**
